@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Avenged_Sevenfold_-_Life_Is_But_a_Dream_cover_art.jpg" alt="Cover Image" width="300" height="300">
+</p>
+
 # Sentiment Analysis in Lyrics Portofolio
 
 Welcome to my data science sentiment analysis portfolio! Here you will find a collection of projects showcasing my skills in data analysis, machine learning, and more.
